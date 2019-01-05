@@ -1,0 +1,11 @@
+[
+  "test_Divisible_of_all_N.py::test_canAssertTure", 
+  "test_Divisible_of_all_N.py::test_Divisible_of_all_N", 
+  "test_Divisible_of_all_N.py::test_Divisible_of_all_N_1", 
+  "test_Rev_Integer.py::test_canAssertTest", 
+  "test_Rev_Integer.py::test_RevInteger", 
+  "AmstrongNum_or_Not/test_Amstrong_or_Not.py::test_canAssertTrue", 
+  "AmstrongNum_or_Not/test_Amstrong_or_Not.py::test_Amstrong_Num", 
+  "Count_Num_digits/test_Count_Num_digits.py::test_canAssertTrue", 
+  "Count_Num_digits/test_Count_Num_digits.py::test_count_N_digits"
+]
