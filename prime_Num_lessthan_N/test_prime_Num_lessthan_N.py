@@ -5,9 +5,9 @@ def test_canAssertTrue():
 
 def test_Prime_Num():
     #Arrange
-    N = 15
-    expected = 7
+    N = 10
+    expected = 17
     #Act
-    actual = prime_Num_lessthan_N.primeNumber_N(N)
+    actual = prime_Num_lessthan_N.is_prime(N)
     #Assert
-    assert actual == expected
+    assert  actual == expected

@@ -1,4 +1,5 @@
 #To Print the prime number from less than N.
+
 def primeNumber_N(N):
     flag =True
     for i in range(2,N):
@@ -8,15 +9,16 @@ def primeNumber_N(N):
     return flag
 
 def is_prime(N):
-    count =0
+    sum1=0
+    #count =0
     if(N>=1):
-        count+=1
+        #count+=1
         for i in range(2,N):
             if(primeNumber_N(i)):
-                count+=1
-        print(count)
-
+                #count+=1
+                sum1+=i
+        return sum1
 
 #N=input('Enter the value :')
-#print(primeNumber_N(5))
-print(is_prime(5))   
+#print(primeNumber_N(N))
+print(is_prime(10))   

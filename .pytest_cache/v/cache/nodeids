@@ -7,5 +7,7 @@
   "AmstrongNum_or_Not/test_Amstrong_or_Not.py::test_canAssertTrue", 
   "AmstrongNum_or_Not/test_Amstrong_or_Not.py::test_Amstrong_Num", 
   "Count_Num_digits/test_Count_Num_digits.py::test_canAssertTrue", 
-  "Count_Num_digits/test_Count_Num_digits.py::test_count_N_digits"
+  "Count_Num_digits/test_Count_Num_digits.py::test_count_N_digits", 
+  "prime_Num_lessthan_N/test_prime_Num_lessthan_N.py::test_canAssertTrue", 
+  "prime_Num_lessthan_N/test_prime_Num_lessthan_N.py::test_Prime_Num"
 ]
